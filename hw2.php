@@ -7,6 +7,7 @@ foreach($Mass as $winter)
 {
     echo $winter . '<br>';
 }
+
 $spring= array();
 $Mass2[] = 'Март';
 $Mass2[] = 'Апрель';
@@ -15,6 +16,7 @@ foreach($Mass2 as $spring)
 {
     echo $spring . '<br>';
 }
+
 $summer= array();
 $Mass3[] = 'Июнь';
 $Mass3[] = 'Июль';
@@ -23,6 +25,7 @@ foreach($Mass3 as $summer)
 {
     echo $summer . '<br>';
 }
+
 $autumn= array();
 $Mass4[] = 'Сентябрь';
 $Mass4[] = 'Октябрь';
